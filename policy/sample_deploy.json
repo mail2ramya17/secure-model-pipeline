@@ -1,0 +1,4 @@
+{
+  "metadata": {"annotations": {}},
+  "spec": {"containers": [{"name": "model", "securityContext": {"runAsNonRoot": false}}]}
+}
